@@ -1,13 +1,7 @@
 # DragonBot
 DragonForgeNEXUS' Official Discord Bot
 to build and run:
-1. make `.env` and `config.json` files:
-
-`.env`:
-```env
-DISCORD_TOKEN={replace with your bot token}
-CLIENT_ID={replace with your bot client id}
-```
+1. make a `config.json` file:
 
 `config.json`:
 ```json
