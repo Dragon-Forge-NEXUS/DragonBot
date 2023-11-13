@@ -1,13 +1,16 @@
 # DragonBot
 DragonForgeNEXUS' Official Discord Bot
-to build and run:
+
+
+## to build and run:
 1. make a `config.json` file:
 
 `config.json`:
 ```json
 {
 	"token": "{replace with your bot token}",
-  "clientId": "{replace with your bot client id}"
+  "clientId": "{replace with your bot client id}",
+  "yt_api_key": "{replace with your Youtube API key}"
 }
 ```
 
